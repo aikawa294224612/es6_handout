@@ -1,6 +1,7 @@
 ## ES6
 [JavaScript ES6-重點紀錄 系列總集](https://ithelp.ithome.com.tw/articles/10197716)
-from [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+
+from 阮一峰[ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 
 init:
 
